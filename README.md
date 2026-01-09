@@ -23,7 +23,7 @@ A lightweight TypeScript helper library for managing web audio elements with smo
    npx tsc
    ```
 
-   The compiled JavaScript will be located in the dist/ folder.
+   The compiled JavaScript will be located in the `dist/` folder.
 
 ---
 
@@ -31,19 +31,18 @@ A lightweight TypeScript helper library for managing web audio elements with smo
 
 1. **Importing the Library**
 
-   Using `TypeScript (Source)`:
-
-   ```
+   **Using TypeScript (Source):**
+   ```typescript
    import { fadeInAudio, stopAllAudio } from "./js/audio-helper";
    ```
 
-   Using `JavaScript in Browser (Build)`:
-
-   ```
+   **Using JavaScript in Browser (Build):**
+   ```javascript
    import { fadeInAudio, stopAllAudio } from "./dist/audio-helper.js";
    ```
 
 2. **Implementation Example**
+   ```
    const myAudio = document.getElementById("bg-music") as HTMLAudioElement;
 
    // Play audio with a smooth fade-in to 70% volume
@@ -51,7 +50,8 @@ A lightweight TypeScript helper library for managing web audio elements with smo
 
    // Stop all playing audios instantly
    // stopAllAudio();
-
+   ```
+   
 ---
 
 ## API Reference
@@ -71,9 +71,10 @@ The `fadeInAudio` function accepts the following arguments to customize the tran
 
 ## Folder Structure
 
-`-` **js/**: Contains the original TypeScript source code (audio-helper.ts).
-`-` **dist/**: Contains the compiled production-ready JavaScript files.
-`-` **index.html**: A demo page to test the audio functions.
+* **js/**: Contains the original TypeScript source code (audio-helper.ts).
+* **dist/**: Contains the compiled production-ready JavaScript files.
+* **assets/**: Contains audio files (e.g., rocket-396890.mp3).
+* **index.html**: A demo page to test the audio functions.
 
 ---
 
