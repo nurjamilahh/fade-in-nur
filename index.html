@@ -33,17 +33,17 @@
   <body
     class="bg-slate-900 text-white min-h-screen flex items-center justify-center p-4"
   >
-    <div
+    <main
       class="bg-slate-800 p-8 rounded-3xl shadow-2xl border border-slate-700 w-full max-w-md text-center relative overflow-hidden"
     >
       <h1
-        class="text-3xl font-bold mb-2 text-sky-400 flex items-center justify-center gap-3"
+        class="text-3xl font-bold mb-2 text-sky-400 flex items-center justify-center gap-2"
       >
         <i id="music-icon" class="fa-solid fa-music"></i>
         <span>Nur Audio Demo</span>
       </h1>
-      <p class="text-slate-400 mb-8 text-sm">
-        Experience smooth TypeScript audio transitions
+      <p class="text-slate-400 mb-8 text-sm italic">
+        I'm using this audio for my Rock-Paper-Scissors game
       </p>
 
       <audio id="demo-audio" loop>
@@ -79,7 +79,7 @@
       >
         Audio Fading In...
       </div>
-    </div>
+    </main>
 
     <script type="module">
       import { fadeInAudio, stopAllAudio } from "./dist/audio-helper.js";
