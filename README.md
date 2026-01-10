@@ -1,4 +1,9 @@
-# Nur Audio Library 🎵
+<div align="center">
+  <img src="assets/logo.png" alt="Nurjam Projects Logo" width="200">
+  <h1>nur-audio-library</h1>
+</div>
+
+---
 
 A lightweight TypeScript helper library for managing web audio elements with smooth transitions.
 
@@ -85,3 +90,15 @@ The `fadeInAudio` function accepts the following arguments to customize the tran
 ## License
 
 This project is licensed under the MIT License - feel free to use it in your own projects!
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worknurjam@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Nurjam_Projects-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285782602672)
+Project Link: [https://github.com/nurjamilahh/nur-audio-library](https://github.com/nurjamilahh/nur-audio-library)
+
+---
+
+_This is part of the **Nurjam Projects** collection — exploring code, one experiment at a time._
