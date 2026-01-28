@@ -1,4 +1,4 @@
-# 🎵 nur-audio-library
+# 🎵 nur-audio-library ![Library Views](https://komarev.com/ghpvc/?username=nurjamilahh-audio-lib&color=C586C0&style=flat-square&label=LIBRARY+VIEWS)
 
 A lightweight TypeScript helper library to manage web audio elements with features like smooth fade-in transitions and instant stop.
 
