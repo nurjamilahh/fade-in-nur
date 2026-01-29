@@ -1,9 +1,9 @@
-# 🎵 nur-audio-library ![Library Views](https://komarev.com/ghpvc/?username=nurjamilahh-audio-lib&color=C586C0&style=flat-square&label=LIBRARY+VIEWS)
+# 🎵 fade-in-nur ![Views](https://komarev.com/ghpvc/?username=nurjamilahh-fade-in-nur&color=C586C0&style=flat-square&label=LIBRARY+VIEWS)
 
 A lightweight TypeScript helper library to manage web audio elements with features like smooth fade-in transitions and instant stop.
 
-🔗 **Live Demo:** [https://nurjamilahh.github.io/nur-audio-library/](https://nurjamilahh.github.io/nur-audio-library/)
-![Nur Audio Demo Preview](assets/nur-audio-library-repo.png)
+🔗 **Live Demo:** [https://nurjamilahh.github.io/fade-in-nur/](https://nurjamilahh.github.io/fade-in-nur/)
+![Fade-In Preview](assets/nur-audio-library-repo.png)
 
 ---
 
@@ -92,21 +92,13 @@ This project is licensed under the MIT License - feel free to use it in your own
 Thank you for checking out my learning notes! If you have any questions or would like to discuss anything, feel free to reach me at:
 
 <p align="left">
-  <a href="https://github.com/nurjamilahh">
-    <img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30">
-  </a>
-  <a href="https://linkedin.com/in/nur-jamilah-harahap" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:worknurjam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30">
-  </a>
-  <a href="https://wa.me/6285782602672">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30">
-  </a>
+  <a href="https://github.com/nurjamilahh"><img src="https://img.shields.io/badge/NURJAM_PROJECTS-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Nurjam Projects" height="30"></a>
+  <a href="https://linkedin.com/in/nur-jamilah-harahap" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:worknurjam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"></a>
+  <a href="https://wa.me/6285782602672"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"></a>
 </p>
 
-**Scan atau klik QR di bawah untuk terhubung di LinkedIn:**
+**Scan or click to connect on LinkedIn:**
 <p align="left">
 <a href="https://www.linkedin.com/in/nur-jamilah-harahap">
  <img src="https://lh3.googleusercontent.com/d/1G-v6Kl-hBczhH3HbuoGAQ2SLMyHA4ggW" width="150" alt="LinkedIn QR">
